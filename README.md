@@ -1,4 +1,4 @@
-# TabViewTemplate_WinUI3
+# Hamburger2Template_WinUI3
 This is a sample template for Winui3 in Hamburger, which can help you quickly create apps.
 
 这是一个Hamburger的winui3的示例模板，可以帮助您快速的制作app。
